@@ -1,2 +1,2 @@
 # action-secrets
- Actions for accessing secret manager objects. 
+ Actions for accessing secret manager objects.
